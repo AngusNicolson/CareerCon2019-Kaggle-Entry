@@ -3,6 +3,11 @@
 Created on Sat Apr  6 14:41:29 2019
 
 @author: angus
+
+Thanks to the following kernels for help and ideas:
+https://www.kaggle.com/prashantkikani/help-humanity-by-helping-robots
+https://www.kaggle.com/jesucristo/1-smart-robots-most-complete-notebook
+https://www.kaggle.com/gpreda/robots-need-help
 """
 import numpy as np
 import pandas as pd
